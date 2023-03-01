@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**pod2c/pod2c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+I'm pod2c. Bacholr@XMUM, Master@HKU
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pod2c&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pod2c&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pod2c)](https://github.com/anuraghazra/github-readme-stats)
+https://img.shields.io/endpoint?label=HKU&style=plastic&url=https%3A%2F%2Fwww.xmu.edu.my%2F
