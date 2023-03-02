@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm pod2c. Bacholr@XMUM, Master@HKU
+I'm pod2c. Bacholr@XMUM[![](https://img.shields.io/badge/{HKU}-{blue}.svg)]({https://www.hku.hk/}), Master@HKU
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,4 +12,4 @@ I'm pod2c. Bacholr@XMUM, Master@HKU
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pod2c&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pod2c)](https://github.com/anuraghazra/github-readme-stats)
-https://img.shields.io/endpoint?label=HKU&style=plastic&url=https%3A%2F%2Fwww.xmu.edu.my%2F
+
