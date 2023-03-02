@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm pod2c. 🎓 Bacholr@[![XMUM Badge](https://img.shields.io/badge/-XMUM-green?style=plastic&logoColor=white&link=https://www.xmu.edu.my/)](https://www.xmu.edu.my/), Master@[![HKU Badge](https://img.shields.io/badge/-HKU-green?style=plastic&logoColor=white&link=https://www.hku.hk/)](https://www.hku.hk/)
+I'm pod2c.<br>
+🎓Bacholr@[![XMUM Badge](https://img.shields.io/badge/-XMUM-green?style=plastic&logoColor=white&link=https://www.xmu.edu.my/)](https://www.xmu.edu.my/), Master@[![HKU Badge](https://img.shields.io/badge/-HKU-green?style=plastic&logoColor=white&link=https://www.hku.hk/)](https://www.hku.hk/)<br>
+✉️Contact Me Via [![GMAIL Badge](https://img.shields.io/badge/-s1820587@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:s1820587@gmail.com)](mailto:s1820587@gmail.com) [![Outlook Badge](https://img.shields.io/badge/-u3580346@hku.connect.hk-blue?style=plastic&link=mailto:u3580346@hku.connect.hk)](mailto:u3580346@hku.connect.hk)<br>
+📲Personal SNS [![Instagram Badge](https://img.shields.io/badge/-pod2c-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/pod2c/)](https://instagram.com/pod2c)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
