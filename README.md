@@ -15,11 +15,18 @@
 
 <table>
 <tr><td>
-I'm pod2c. Master@HKU in Information Management, and Bacholr@XMUM in Software Engineering. </p>
-I'm currently learning on Deep Learning algorithms and Computer Vision algorithms.
-Contact me Via  
-  <!-- profile logo -->
-  <div align="center">
-    <a href="mailto:s1820587@gmail.com"><img src="https://img.shields.io/badge/Gmail-Gmail-blue" /></a>&emsp;
+<div align="center">
+  
+  I'm pod2c. Master@HKU in Information Management, and Bacholr@XMUM in Software Engineering. </p>
+  I'm currently learning on Deep Learning algorithms and Computer Vision algorithms.<br>
+  Contact me Via 
+  
+  <a href="mailto:s1820587@gmail.com"><img src="https://img.shields.io/badge/Mail-Gmail-blue" /></a>&emsp;
+  <a href="mailto:u3580346@connect.hku.hk"><img src="https://img.shields.io/badge/Mail-Outlook-blue" /></a>&emsp;
+  <a href="https://twitter.com/pod2c/"><img src="https://img.shields.io/badge/SNS-Twitter-blue" /></a>&emsp;
+  <a href="https://www.instagram.com/pod2c/"><img src="https://img.shields.io/badge/SNS-Instagram-purple" /></a>&emsp;
+  <a href="https://www.youtube.com/@zhixuanhe-un2nk"><img src="https://img.shields.io/badge/SNS-YouTube-c32136" /></a>&emsp;
+  <a href="https://space.bilibili.com/316868112?spm_id_from=333.337.0.0"><img src="https://img.shields.io/badge/SNS-Bilibili-ff69b4" /></a>&emsp;
+    
     
 
