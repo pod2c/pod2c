@@ -5,4 +5,21 @@
     </a>
   </div>
   
+  <!-- knocking code image -->
+  <img src="https://github.com/pod2c/pod2c/blob/master/image/coding.gif" /><br>
+  
+</div>
+
+
+# Hello there! 👋
+
+<table>
+<tr><td>
+I'm pod2c. Master@HKU in Information Management, and Bacholr@XMUM in Software Engineering. </p>
+I'm currently learning on Deep Learning algorithms and Computer Vision algorithms.
+Contact me Via  
+  <!-- profile logo -->
+  <div align="center">
+    <a href="mailto:s1820587@gmail.com"><img src="https://img.shields.io/badge/Gmail-Gmail-blue" /></a>&emsp;
+    
 
