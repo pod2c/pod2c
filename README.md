@@ -1,19 +1,8 @@
-### Hi there 👋
-
-I'm pod2c.<br>
-🎓Bacholr@[![XMUM Badge](https://img.shields.io/badge/-XMUM-green?style=plastic&logoColor=white&link=https://www.xmu.edu.my/)](https://www.xmu.edu.my/), Master@[![HKU Badge](https://img.shields.io/badge/-HKU-green?style=plastic&logoColor=white&link=https://www.hku.hk/)](https://www.hku.hk/)<br>
-✉️Contact Me Via [![GMAIL Badge](https://img.shields.io/badge/-s1820587@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:s1820587@gmail.com)](mailto:s1820587@gmail.com) [![Outlook Badge](https://img.shields.io/badge/-u3580346@connect.hku.hk-blue?style=plastic&link=mailto:u3580346@connect.hku.hk)](mailto:u3580346@hku.connect.hk)<br>
-📲Personal SNS [![Instagram Badge](https://img.shields.io/badge/-pod2c-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/pod2c/)](https://instagram.com/pod2c)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pod2c&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pod2c)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <!--dynamic typing -->
+  <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22A+Machine+Learner%22);Welcome to Pod2c's Github&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+  
 
