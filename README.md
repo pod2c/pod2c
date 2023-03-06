@@ -27,6 +27,6 @@
   <a href="https://www.instagram.com/pod2c/"><img src="https://img.shields.io/badge/SNS-Instagram-purple" /></a>&emsp;
   <a href="https://www.youtube.com/@zhixuanhe-un2nk"><img src="https://img.shields.io/badge/SNS-YouTube-c32136" /></a>&emsp;
   <a href="https://space.bilibili.com/316868112?spm_id_from=333.337.0.0"><img src="https://img.shields.io/badge/SNS-Bilibili-ff69b4" /></a>&emsp;
-    
+</div>  
     
 
