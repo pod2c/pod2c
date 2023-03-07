@@ -104,3 +104,7 @@
   ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
   ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black)
   ![Switch](https://img.shields.io/badge/Switch-E60012?style=flat&logo=nintendo-switch&logoColor=white)
+
+  👬Real Time Visitor Recording
+  
+  <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=pod2c" /> </div>
