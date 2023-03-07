@@ -69,3 +69,29 @@
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
+  
+  🎓Commonly Used Online Learning Platforms
+  
+  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)
+  ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c)
+  ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=flat&logo=KhanAcademy&logoColor=white)
+  
+  <img width="200%" src="https://github.com/pod2c/pod2c/blob/master/image/hr.gif" />
+  
+  📱Commonly Used Apps
+  
+  ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)
+  ![Shazam](https://img.shields.io/badge/shazam-1476FE?style=flat&logo=shazam&logoColor=white)
+  ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=flat&logo=Baidu&logoColor=white)
+  ![Google](https://img.shields.io/badge/google-4285F4?style=flat&logo=google&logoColor=white)
+  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)
+  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)
+  ![Tencent QQ](https://img.shields.io/badge/Tencent%23QQ-%2312B7F5?style=flat&logo=tencentqq&logoColor=white)
+  ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=TikTok&logoColor=white)
+  ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white)
+  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
+  ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=Twitch&logoColor=white)
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)
+  ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)
+  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
