@@ -107,4 +107,8 @@
 
   👬Real Time Visitor Recording
   
-  <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=pod2c" /> </div>
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpod2c&countColor=%232ccce4&style=flat)
+  </div>
+  <img width="200%" src="https://github.com/pod2c/pod2c/blob/master/image/hr.gif" />
+  
+  
