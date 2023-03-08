@@ -109,7 +109,16 @@
   
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpod2c&countColor=%232ccce4&style=flat)
   </div>
+  
+  <div align="center">
   <img width="200%" src="https://github.com/pod2c/pod2c/blob/master/image/hr.gif" />
   
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+  📊Github Stats
+  
+  ![3D CONTRIBUTE](https://github.com/pod2c/pod2c/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+  
+  <img width="200%" src="https://github.com/pod2c/pod2c/blob/master/image/hr.gif" />
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pod2c&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pod2c)](https://github.com/anuraghazra/github-readme-stats)
+  [![pod2c's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pod2c&bg_color=d4d1ff&color=524c9e&line=4c9e78&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
