@@ -121,4 +121,9 @@
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pod2c&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pod2c)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <img width="200%" src="https://github.com/pod2c/pod2c/blob/master/image/hr.gif" />
+  
   [![pod2c's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pod2c&bg_color=d4d1ff&color=524c9e&line=4c9e78&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  <img width="200%" src="https://github.com/pod2c/pod2c/blob/master/image/hr.gif" />
