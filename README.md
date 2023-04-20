@@ -24,7 +24,7 @@
   <a href="mailto:s1820587@gmail.com"><img src="https://img.shields.io/badge/Mail-Gmail-blue" /></a>&emsp;
   <a href="mailto:u3580346@connect.hku.hk"><img src="https://img.shields.io/badge/Mail-Outlook-blue" /></a>&emsp;
   <a href="https://www.linkedin.com/in/zhixuan-he-80b172237/"><img src="https://img.shields.io/badge/SNS-LinkedIn-blue" /></a>&emsp;
-  <a href="https://twitter.com/pod2c/"><img src="https://img.shields.io/badge/SNS-Twitter-blue" /></a>&emsp;
+  <a href="https://twitter.com/0pod2c"><img src="https://img.shields.io/badge/SNS-Twitter-blue" /></a>&emsp;
   <a href="https://www.instagram.com/pod2c/"><img src="https://img.shields.io/badge/SNS-Instagram-purple" /></a>&emsp;
   <a href="https://www.youtube.com/@zhixuanhe-un2nk"><img src="https://img.shields.io/badge/SNS-YouTube-c32136" /> 
  
